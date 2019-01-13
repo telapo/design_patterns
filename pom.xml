@@ -1,22 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
-    <parent>
-        <groupId>org.davide.java8</groupId>
-        <artifactId>aggregator</artifactId>
-        <version>1.0.0-SNAPSHOT</version>
-    </parent>
-    <artifactId>CreationalPatterns</artifactId>
+    <groupId>org.davide.design.patterns</groupId>
+    <artifactId>design_patterns-aggregator</artifactId>
+    <version>1.0.0-SNAPSHOT</version>
     <packaging>pom</packaging>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <maven.compiler.source>1.8</maven.compiler.source>
         <maven.compiler.target>1.8</maven.compiler.target>
     </properties>
-    <name>CreationalPatterns</name>
-    
+    <name>DesignPatterns</name>
+
     <modules>
-        <module>AbstractFactory</module>
-        <module>Builder</module>
+        <module>CreationalPatterns</module>
     </modules>
 </project>
