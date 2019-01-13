@@ -24,3 +24,4 @@ hs_err_pid*
 /CreationalPatterns/target/
 /CreationalPatterns/AbstractFactory/target/
 /CreationalPatterns/Builder/target/
+/CreationalPatterns/FactoryMethod/target/
