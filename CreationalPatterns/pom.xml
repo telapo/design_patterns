@@ -20,5 +20,6 @@
         <module>Builder</module>
         <module>FactoryMethod</module>
         <module>Prototype</module>
+        <module>Singleton</module>
     </modules>
 </project>

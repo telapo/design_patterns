@@ -26,3 +26,4 @@ hs_err_pid*
 /CreationalPatterns/Builder/target/
 /CreationalPatterns/FactoryMethod/target/
 /CreationalPatterns/Prototype/target/
+/CreationalPatterns/Singleton/target/
