@@ -19,5 +19,6 @@
         <module>AbstractFactory</module>
         <module>Builder</module>
         <module>FactoryMethod</module>
+        <module>Prototype</module>
     </modules>
 </project>
