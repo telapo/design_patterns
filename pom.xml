@@ -14,5 +14,6 @@
 
     <modules>
         <module>CreationalPatterns</module>
+        <module>StructuralPatterns</module>
     </modules>
 </project>
