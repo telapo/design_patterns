@@ -28,3 +28,4 @@ hs_err_pid*
 /CreationalPatterns/Prototype/target/
 /CreationalPatterns/Singleton/target/
 /StructuralPatterns/Adapter/target/
+/StructuralPatterns/Bridge/target/
