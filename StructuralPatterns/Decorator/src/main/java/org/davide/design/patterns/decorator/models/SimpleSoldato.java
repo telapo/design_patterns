@@ -6,7 +6,8 @@
 package org.davide.design.patterns.decorator.models;
 
 /**
- *
+ * Example of ConcreteComponent.
+ * 
  * @author davide
  */
 public class SimpleSoldato implements Soldato{

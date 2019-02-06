@@ -6,7 +6,8 @@
 package org.davide.design.patterns.decorator.models;
 
 /**
- *
+ * Decorator object, which keeps a reference to the Component and adds behavior.
+ * 
  * @author davide
  */
 public class SuperSoldato implements Soldato {

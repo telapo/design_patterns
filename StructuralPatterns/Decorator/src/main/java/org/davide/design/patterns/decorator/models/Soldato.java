@@ -6,7 +6,8 @@
 package org.davide.design.patterns.decorator.models;
 
 /**
- * This is the interface of objects that can have additional responsibilities.
+ * This is the interface of objects that can have additional responsibilities
+ * (this is the Component).
  * 
  * @author davide
  */
