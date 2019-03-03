@@ -32,3 +32,4 @@ hs_err_pid*
 /StructuralPatterns/Composite/target/
 /StructuralPatterns/Decorator/target/
 /StructuralPatterns/Facade/target/
+/StructuralPatterns/Flyweight/target/
