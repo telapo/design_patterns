@@ -36,3 +36,4 @@ hs_err_pid*
 /StructuralPatterns/Proxy/target/
 /BehavioralPatterns/ChainOfResponsibility/target/
 /BehavioralPatterns/Command/target/
+/BehavioralPatterns/Interpreter/target/
