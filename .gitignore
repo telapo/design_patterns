@@ -40,3 +40,4 @@ hs_err_pid*
 /BehavioralPatterns/Iterator/target/
 /BehavioralPatterns/Mediator/target/
 /BehavioralPatterns/Memento/target/
+/BehavioralPatterns/Observer/target/
