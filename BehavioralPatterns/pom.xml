@@ -16,5 +16,6 @@
         <module>Mediator</module>
         <module>Memento</module>
         <module>Observer</module>
+        <module>State</module>
     </modules>
 </project>

@@ -41,3 +41,4 @@ hs_err_pid*
 /BehavioralPatterns/Mediator/target/
 /BehavioralPatterns/Memento/target/
 /BehavioralPatterns/Observer/target/
+/BehavioralPatterns/State/target/
