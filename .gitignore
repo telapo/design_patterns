@@ -43,3 +43,4 @@ hs_err_pid*
 /BehavioralPatterns/Observer/target/
 /BehavioralPatterns/State/target/
 /BehavioralPatterns/Strategy/target/
+/BehavioralPatterns/TemplateMethod/target/
